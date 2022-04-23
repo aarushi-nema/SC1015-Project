@@ -1,5 +1,5 @@
 # SC1015 Mini-Project
-Welcome to our SC1015 Data Science Mini-Project! This project uses the [dataset name and link] dataset from Kaggle. Our presentation is linked [here]. For a complete walkthrough of the project, refer to the following jupyter notebooks:
+Welcome to our SC1015 Data Science Mini-Project! This project uses the "Global Energy Consumption & Renewable Generation" dataset from Kaggle (https://www.kaggle.com/datasets/jamesvandenberg/renewable-power-generation). Our presentation is linked [here]. For a complete walkthrough of the project, refer to the following jupyter notebooks:
 
 1. [link to notebook 1]
 2. [link to notebook 2]
