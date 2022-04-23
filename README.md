@@ -5,7 +5,7 @@ Welcome to our SC1015 Data Science Mini-Project! This project uses the "Global E
 2. [link to notebook 2]
 
 ## Contributors
-@nicklimmm - Machine Learning Model, Data Resampling, Data Extraction <br>
+@Pratham117 - Machine Learning Model, Data Resampling, Data Extraction <br>
 @aarushi-nema - Exploratory Data Analysis, Data cleaning and Extraction <br>
 @Bappe304 - Data Visualization, Data Extraction <br>
 
