@@ -49,10 +49,10 @@ To answer this, we initially built a naive linear regression model that we later
 
 ## References
 
-https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6
-https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386
-https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d296f2
-https://matplotlib.org/stable/plot_types/index
+https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6 <br>
+https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386 <br>
+https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d296f2 <br>
+https://matplotlib.org/stable/plot_types/index <br>
 
 
 
