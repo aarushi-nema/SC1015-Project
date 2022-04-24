@@ -2,8 +2,8 @@
 Welcome to our SC1015 Data Science Mini-Project! This project uses the [Global Energy Consumption & Renewable Generation](https://www.kaggle.com/datasets/jamesvandenberg/renewable-power-generation) dataset from Kaggle. Our presentation [slides](https://docs.google.com/presentation/d/1BiESdyCDe18korISUYRaPje2cy7CG9sy6mEpWsvPSJQ/edit?usp=sharing) and [video](https://drive.google.com/file/d/157ETJFmPq6lHxcoHpRSCc8RqUW1dP3R1/view?usp=sharing). For a complete walkthrough of the project, refer to the following jupyter notebooks:
 
 1. [Exploratory Data Analysis](https://github.com/aarushi-nema/SC1015-Project/blob/main/EDA.ipynb)
-2. [Data Driven Insights](https://github.com/aarushi-nema/SC1015-Project/blob/main/Data%20Driven%20Insights.ipynb)
-3. [Machine Learning and Anamoly Detection](https://github.com/aarushi-nema/SC1015-Project/blob/main/Machine%20Learning%20and%20Anomaly%20Detection.ipynb)
+2. [Data Driven Insights and Anomaly Detection](https://github.com/aarushi-nema/SC1015-Project/blob/main/Data%20Driven%20Insights.ipynb)
+3. [Machine Learning](https://github.com/aarushi-nema/SC1015-Project/blob/main/Machine%20Learning%20and%20Anomaly%20Detection.ipynb)
 
 ## Contributors
 
